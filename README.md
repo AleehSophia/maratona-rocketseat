@@ -1,6 +1,8 @@
 # Sobre o projeto
 
-## Projeto Maratona Explorer pela RocketSeat
+Projeto Maratona Explorer pela Rocketseat
+Deploy Netlify: https://euphonious-scone-cfcc90.netlify.app/ 
+
 
 ### Prática de HTML e CSS. Cardápio com QR code.
 
