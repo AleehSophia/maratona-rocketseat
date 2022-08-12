@@ -1,6 +1,7 @@
 # Sobre o projeto
 
-Projeto Maratona Explorer pela Rocketseat
+### Projeto Maratona Explorer pela Rocketseat
+
 Deploy Netlify: https://euphonious-scone-cfcc90.netlify.app/ 
 
 
